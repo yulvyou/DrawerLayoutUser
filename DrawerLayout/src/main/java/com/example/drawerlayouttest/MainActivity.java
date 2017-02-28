@@ -17,7 +17,7 @@ import butterknife.ButterKnife;
 
 public class MainActivity extends AppCompatActivity {
 
-
+    //组件
     @Bind(R.id.toolbar)
     Toolbar mToolbar;
     @Bind(R.id.appbar)
