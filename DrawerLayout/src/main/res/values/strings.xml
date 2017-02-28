@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DrawerLayoutTest</string>
+    <string name="navigation_header">Navigation_header</string>
+    <string name="navi_news">新闻</string>
+    <string name="navi_pic">图片</string>
+    <string name="navi_weather">天气</string>
+    <string name="navi_about">关于</string>
+    <string name="drawer_close">close</string>
+    <string name="drawer_open">open</string>
+</resources>
